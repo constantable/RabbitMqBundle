@@ -1,5 +1,5 @@
 {
-    "name": "emag-tech-labs/rabbitmq-bundle",
+    "name": "constantable/rabbitmq-bundle",
     "type": "symfony-bundle",
     "description": "Integrates php-amqplib with Symfony & RabbitMq. Formerly php-amqplib/rabbitmq-bundle, oldsound/rabbitmq-bundle.",
     "keywords": ["symfony", "symfony4", "symfony5", "rabbitmq", "message", "queue", "amqp"],
@@ -17,14 +17,14 @@
         "symfony/console":              "^4.3|^5.0",
         "php-amqplib/php-amqplib":      "^2.6",
         "psr/log":                      "^1.0",
-        "symfony/http-kernel": "^4.4|^5.0",
-        "symfony/framework-bundle": "^4.4|^5.0"
+        "symfony/http-kernel":          "^4.4|^5.0",
+        "symfony/framework-bundle":         "^4.4|^5.0"
     },
     "require-dev": {
         "symfony/serializer":           "^4.3|^5.0",
         "phpunit/phpunit":              "^7.5|^8.5",
         "phpstan/phpstan":              "^0.12.11",
-        "phpstan/phpstan-phpunit": "^0.12.6"
+        "phpstan/phpstan-phpunit":      "^0.12.6"
     },
     "replace": {
         "oldsound/rabbitmq-bundle": "self.version",
