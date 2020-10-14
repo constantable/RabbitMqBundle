@@ -1,7 +1,7 @@
 # RabbitMqBundle #
 
-[![Latest Version](http://img.shields.io/packagist/v/emag-tech-labs/rabbitmq-bundle.svg?style=flat-square)](https://github.com/eMAGTechLabs/RabbitMqBundle/releases)
-[![Build Status](https://travis-ci.org/eMAGTechLabs/RabbitMqBundle.svg?branch=master)](https://travis-ci.org/eMAGTechLabs/RabbitMqBundle)
+[![Latest Version](http://img.shields.io/packagist/v/constantable/rabbitmq-bundle.svg?style=flat-square)](https://github.com/constantable/RabbitMqBundle/releases)
+[![Build Status](https://travis-ci.org/constantable/RabbitMqBundle.svg?branch=master)](https://travis-ci.org/econstantable/RabbitMqBundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/eMAGTechLabs/RabbitMqBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/eMAGTechLabs/RabbitMqBundle/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/eMAGTechLabs/RabbitMqBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/eMAGTechLabs/RabbitMqBundle/?branch=master)
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat-square)](https://github.com/phpstan/phpstan)
@@ -66,7 +66,7 @@ Require the bundle in your composer.json file:
 ```
 {
     "require": {
-        "emag-tech-labs/rabbitmq-bundle": "^2.0",
+        "constantable/rabbitmq-bundle": "^2.0",
     }
 }
 ```
