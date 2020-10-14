@@ -29,7 +29,7 @@ This bundle was presented at [Symfony Live Paris 2011](http://www.symfony-live.c
 
 ## Version 2 ##
 Due to the breaking changes happened caused by Symfony >=4.4, a new tag was released, making the bundle compatible with Symfony >=4.4.
-Also it eliminates a lot notices caused by symfony event dispatcher in Symfony 4.3.
+Also it eliminates a lot of notices caused by symfony event dispatcher in Symfony 4.3.
 
 ## Installation ##
 
@@ -38,7 +38,7 @@ Also it eliminates a lot notices caused by symfony event dispatcher in Symfony 4
 Require the bundle and its dependencies with composer:
 
 ```bash
-$ composer require emag-tech-labs/rabbitmq-bundle
+$ composer require constantable/rabbitmq-bundle
 ```
 
 Register the bundle:
